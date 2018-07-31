@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.1_63ffc5e53a5195f8ed750ee2f70aaae09f37324f.jar" />
+    </item>
+    <item
+        jar="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\libs\ShareSDK-SinaWeibo-2.6.3.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="a080389406bbb3b21310f84df77d7391f355addc">
+        <dex dex="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\pre-dexed\debug\ShareSDK-SinaWeibo-2.6.3_a82f4a3508e89dd459a31686e024a73fd35da0c7.jar" />
+    </item>
+    <item
+        jar="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.0.1_d2fb877ec9ba29a9ffd7530dea06194033a6124f.jar" />
+    </item>
+    <item
+        jar="C:\Users\huangweishui\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1_267eee11f00b991169472a5f476fe9864455610f.jar" />
+    </item>
+    <item
+        jar="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\libs\AMap_Location_v1.4.1_20150917.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="07008f2806e509a55706771629c8767998b6fb98">
+        <dex dex="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\pre-dexed\debug\AMap_Location_v1.4.1_20150917_9c629510bee7c62f91a93f0aa69f2eb1c7058d59.jar" />
+    </item>
+    <item
+        jar="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\libs\MobTools.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="23e791d96579e8c56fd11f1912130ff93c2d6289">
+        <dex dex="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\pre-dexed\debug\MobTools_30bf12f9429226784f3cfc944748f1980e036216.jar" />
+    </item>
+    <item
+        jar="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_066a1d2d10180bfb64dd5e6e5453b391c8cfb077.jar" />
+    </item>
+    <item
+        jar="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.0.1_4437cb38ff4f496e9c1850def392a31449b416f7.jar" />
+    </item>
+    <item
+        jar="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_a6b28f282320ac5f5fd163b246158b7ea3e755ad.jar" />
+    </item>
+    <item
+        jar="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_cd864768802f9fe3595df5363c845546bea9e80b.jar" />
+    </item>
+    <item
+        jar="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_16b962bbfdd99e1aefbeb74024d7f3037914845b.jar" />
+    </item>
+    <item
+        jar="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\libs\asmack-android-6.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="3d0153304081a3a9ddb15c93082e2664b94746e9">
+        <dex dex="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\pre-dexed\debug\asmack-android-6_3c6111e7d967e545227f86d8980df6cedb3cca96.jar" />
+    </item>
+    <item
+        jar="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\libs\ShareSDK-Core-2.6.3.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="d072ff710fbddf800658d07d735ca3c5464ea04f">
+        <dex dex="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\pre-dexed\debug\ShareSDK-Core-2.6.3_dca045fa86ba8435b2d2c541cf9c6f576a08b099.jar" />
+    </item>
+    <item
+        jar="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_3efd6eb254345980c60527f207f9f8208cd263df.jar" />
+    </item>
+    <item
+        jar="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\libs\gson-2.5.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="686c608d1805b6d4d425ec4459e88164ffc85870">
+        <dex dex="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\pre-dexed\debug\gson-2.5_8ad1248815d8ff533a8c984f7af6d8b8be0dd9cb.jar" />
+    </item>
+    <item
+        jar="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_8354dd744c3dcfe1084df133d9ff7fb1526424e8.jar" />
+    </item>
+    <item
+        jar="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_7e72cf39ec762770dcdf6d14570638dd35ecc918.jar" />
+    </item>
+    <item
+        jar="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\exploded-aar\com.demievil.library\refreshlayout\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="b98861ef86d1575672b61b5f58a59eede6119c97">
+        <dex dex="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\pre-dexed\debug\com.demievil.library-refreshlayout-1.0.0_81792d443fb58589f3216b21dc830865f3173a99.jar" />
+    </item>
+    <item
+        jar="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\libs\AMap_3DMap_v2.6.0_20150914.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="5723f613d0bd1fb0c0e7025f09e091f62aff02e8">
+        <dex dex="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\pre-dexed\debug\AMap_3DMap_v2.6.0_20150914_f7194821fc48f6024fcd5f8c83f6517b67c68318.jar" />
+    </item>
+    <item
+        jar="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_5de28c82ee12713c05945ff59cf732c0b3dce1bf.jar" />
+    </item>
+    <item
+        jar="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\libs\wup-1.0.0-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="a0845068801a0b9a3a144b7cf57cb650b3d467e5">
+        <dex dex="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\pre-dexed\debug\wup-1.0.0-SNAPSHOT_1273221ebbcacabdda70dd4928592d5e0e9d64ad.jar" />
+    </item>
+    <item
+        jar="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\exploded-aar\com.commit451\PhotoView\1.2.4\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="890be6e1e56a883c9b407a11e067a61886dec123">
+        <dex dex="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\pre-dexed\debug\com.commit451-PhotoView-1.2.4_7ad001c9353ed5c144ec94dbdfbf76cb685f4947.jar" />
+    </item>
+    <item
+        jar="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\libs\Xg_sdk_v2.39_20150915_1121.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="b1a16d54584c44f32d2492e25acab5f8d07772fb">
+        <dex dex="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\pre-dexed\debug\Xg_sdk_v2.39_20150915_1121_199e463d7a9395e19d26c1b9ff49c4a39338d263.jar" />
+    </item>
+    <item
+        jar="C:\Users\huangweishui\.gradle\caches\modules-2\files-2.1\cz.msebera.android\httpclient\4.3.6\526a9f794eab830eae4f23a62c572878b3f491ab\httpclient-4.3.6.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\pre-dexed\debug\httpclient-4.3.6_bf568af438a7a31c410f6d2b1bbb57b9884494d7.jar" />
+    </item>
+    <item
+        jar="C:\Users\huangweishui\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.9\386a4339ffe52d5d63e80f9bed8d2b1d1a418249\android-async-http-1.4.9.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.9_5fe717b89ee8961bc92552b298e0f1dd040a048b.jar" />
+    </item>
+    <item
+        jar="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\exploded-aar\com.pnikosis\materialish-progress\1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="57487745ce450899f9f250d5ae5c092a682cd041">
+        <dex dex="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\pre-dexed\debug\com.pnikosis-materialish-progress-1.0_026f8ae2d61ceb3b91e1d7876808e6da52398062.jar" />
+    </item>
+    <item
+        jar="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\exploded-aar\com.melnykov\floatingactionbutton\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="8c6ebb7d087d1a30bf84356bd2aecf85309fc024">
+        <dex dex="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\pre-dexed\debug\com.melnykov-floatingactionbutton-1.3.0_e7a54a69261246afd2eb8792a206ae0800654981.jar" />
+    </item>
+    <item
+        jar="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\libs\mid-sdk-2.20.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="0822bf00661a83ba2fab32214c70cc50a244a0a3">
+        <dex dex="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\pre-dexed\debug\mid-sdk-2.20_c64adc1743c4f9ba5a9be186f96b36a1b1e0643b.jar" />
+    </item>
+    <item
+        jar="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\libs\AMap_Search_v2.6.0_20150914.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="1a1add372e0354b1a3e8614d742362491cb8c2f4">
+        <dex dex="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\pre-dexed\debug\AMap_Search_v2.6.0_20150914_f1220912dd8c7cd846625da48015077dae44d9cf.jar" />
+    </item>
+    <item
+        jar="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_849077a07feb78ee7221c27bcae58fb010848a03.jar" />
+    </item>
+    <item
+        jar="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_bce925c51f2db96caf0aaa2cda1339645082b688.jar" />
+    </item>
+    <item
+        jar="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\exploded-aar\cn.pedant.sweetalert\library\1.3\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="0c3529d9491be892952749d252ae1defa9b1f937">
+        <dex dex="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\pre-dexed\debug\cn.pedant.sweetalert-library-1.3_5abf68db8040937f08b5cb7fedbc674a55c59a7d.jar" />
+    </item>
+    <item
+        jar="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_dfa31bc49f5a86c378ae8b0e6a282d6ef84a1243.jar" />
+    </item>
+    <item
+        jar="C:\Users\huangweishui\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_16e16fceaca717633aa5d243452291064bdf99ac.jar" />
+    </item>
+    <item
+        jar="C:\Users\huangweishui\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_a746de34516d1d5fca663e2384ba025154748c55.jar" />
+    </item>
+    <item
+        jar="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_adca69cbd2545125ed6a7f426eebf365d2bd197e.jar" />
+    </item>
+    <item
+        jar="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\libs\MobLogCollector.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="0488dc80a5addc72b2fcb515f792a130c164ab5f">
+        <dex dex="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\pre-dexed\debug\MobLogCollector_ea7768e685ed4b53dd811429fb83314a9e01216b.jar" />
+    </item>
+    <item
+        jar="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\libs\SMSSDK-1.3.1.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="0951da1e350144289581921fcc3570cc3aeac48a">
+        <dex dex="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\pre-dexed\debug\SMSSDK-1.3.1_3ec6541440edb00717d662fbfddc07712cc5a9a1.jar" />
+    </item>
+    <item
+        jar="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_7b91869cb61f807b7c0677d2d4431a7df3e5743d.jar" />
+    </item>
+    <item
+        jar="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\libs\ShareSDK-QQ-2.6.3.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="496e163b2b242a83885f065f193810611ada229a">
+        <dex dex="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\pre-dexed\debug\ShareSDK-QQ-2.6.3_1ca1c3e3094f4288b9aa47d8d78ea60ad2b6fe91.jar" />
+    </item>
+    <item
+        jar="C:\Users\huangweishui\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\pre-dexed\debug\library-2.4.0_7e85ddccd9d3b06e82c1cc93c27d0f40ce3535d1.jar" />
+    </item>
+    <item
+        jar="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\exploded-aar\com.rockerhieu.emojicon\library\1.3.3\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="bcca57571c432c186f738fccb93e4ca5bc02aada">
+        <dex dex="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\pre-dexed\debug\com.rockerhieu.emojicon-library-1.3.3_238a895a550b3d4eeaedf1985404397c54811e8a.jar" />
+    </item>
+    <item
+        jar="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\libs\jg_filter_sdk_1.1.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="ebfc3cde0309ff27e9568757784eefefc71407a2">
+        <dex dex="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\pre-dexed\debug\jg_filter_sdk_1.1_3eb30651a10b7834d97db8724d9bf5608c0ab22e.jar" />
+    </item>
+    <item
+        jar="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\exploded-aar\YYQuan\multi-image-selector\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="987b667afacb41e5e0d631b6865c42ad0e72ba77">
+        <dex dex="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\pre-dexed\debug\YYQuan-multi-image-selector-unspecified_03e41c3ffad1bb6cda6c6fc66a829422670f0d16.jar" />
+    </item>
+    <item
+        jar="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_272e2c9e06d75f7b37ebc08509a8004c9ccbe9c9.jar" />
+    </item>
+    <item
+        jar="C:\Users\huangweishui\.gradle\caches\modules-2\files-2.1\com.umeng.analytics\analytics\6.1.4\c1d30c2bbdce435b775cadca57df2098044a0f5e\analytics-6.1.4.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="c1d30c2bbdce435b775cadca57df2098044a0f5e">
+        <dex dex="E:\stodiodemo\demo\xmppdemoe\xmpp\client\YYQuan\app\build\intermediates\pre-dexed\debug\analytics-6.1.4_652672e4d3ae88b04e1481947e29b2cc13a6860b.jar" />
+    </item>
+
+</items>
